@@ -2,7 +2,7 @@
 # products
 # orders
 # order_items
-# payments
+# payments 
 
 use ecommerce_analytics;
 
