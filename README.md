@@ -212,6 +212,16 @@ Window Functions
 CTEs
 Analytical Problem Solving
 
+## Topic's
+sql
+mysql
+data-analytics
+sql-project
+ecommerce
+business-analytics
+customer-analytics
+data-analysis
+
 
 👤 Author
 Gourav Rawat
