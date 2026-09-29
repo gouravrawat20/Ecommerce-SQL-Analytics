@@ -40,60 +40,60 @@ The project contains five main tables:
 customers
     │
     └── orders
-          │
+          |
           ├── order_items ── products
           │
           └── payments
 
 
 ### 🛠️ Tools & Technologies
-MySQL
-SQL
-GitHub
-📚 SQL Concepts Demonstrated
-SQL Fundamentals
-SELECT
-WHERE
-DISTINCT
-ORDER BY
-LIMIT
-Aggregate Functions
-Aggregation & Analysis
-GROUP BY
-HAVING
-COUNT()
-SUM()
-AVG()
-MIN()
-MAX()
-CASE WHEN
-Data Relationships
-INNER JOIN
-LEFT JOIN
-Advanced SQL
-Subqueries
-Common Table Expressions (CTEs)
-Window Functions
-ROW_NUMBER()
-RANK()
-DENSE_RANK()
-LAG()
-Date Analysis
-YEAR()
-MONTH()
-MONTHNAME()
-Monthly Revenue Analysis
-Month-over-Month Growth
-🔎 Business Analysis
-👥 Customer Analysis
-Total customer analysis
-Customer spending
-Top customers by revenue
-Customers with no orders
-Repeat customers
-Customer ranking
-Customer segmentation
-Customer retention analysis
+MySQL ,
+SQL,
+GitHub,
+📚 SQL Concepts Demonstrated ,
+SQL Fundamentals ,
+SELECT ,
+WHERE ,
+DISTINCT ,
+ORDER BY ,
+LIMIT ,
+Aggregate Functions ,
+Aggregation & Analysis ,
+GROUP BY ,
+HAVING,
+COUNT(),
+SUM(),
+AVG(),
+MIN(),
+MAX(),
+CASE WHEN,
+Data Relationships,
+INNER JOIN,
+LEFT JOIN,
+Advanced SQL,
+Subqueries,
+Common Table Expressions (CTEs),
+Window Functions,
+ROW_NUMBER(),
+RANK(),
+DENSE_RANK(),
+LAG(),
+Date Analysis,
+YEAR(),
+MONTH(),
+MONTHNAME(),
+Monthly Revenue Analysis,
+Month-over-Month Growth,
+🔎 Business Analysis,
+👥 Customer Analysis,
+Total customer analysis,
+Customer spending,
+Top customers by revenue,
+Customers with no orders,
+Repeat customers,
+Customer ranking,
+Customer segmentation,
+Customer retention analysis,
 
 ## 📦 Product Analysis
 Product quantity sold
